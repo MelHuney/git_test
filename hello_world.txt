@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Test test
 test
+=======
+test
+>>>>>>> feb4871 (Editted the two files)
